@@ -19,3 +19,4 @@ del frutas
 print(frutas)
 
 
+#Parte final de la clase
