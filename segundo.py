@@ -15,6 +15,8 @@ del frutas
 print(frutas)
 """""
 
+#Continuaciónn de la Clase de Python
+
 frutas2 = frutas.copy()
 print(frutas2)
 frutas2.append("durazno")
