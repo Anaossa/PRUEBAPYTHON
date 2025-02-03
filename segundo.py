@@ -42,3 +42,5 @@ print(frutas)
 frutas.sort()
 print(frutas)
 print(frutas[-1])
+
+#Más ejemplos
