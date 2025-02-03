@@ -30,6 +30,8 @@ valor = int(input("con cuanto va pagar: "))
 vueltas = valor - productos  
 print("su devuelta es", vueltas)
 
+#Esta fue la segunda para de la clase
+
 """
 tabla = int(input("Cuál tabla quiere"))
 
